@@ -56,5 +56,7 @@ Wierd List in the screenshot code (this is nothing particularly special)
 I apologize for confusion. This is not leaked source code. This is reverse engineered. Thank you for your time.
 
 ### Done by
-- [autorepoarchive](https://github.com/autorepoarchive)
+- [augustgl](https://github.com/augustgl)
 - [quantumcore](https://github.com/quantumcore)
+
+ 
